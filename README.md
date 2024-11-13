@@ -28,4 +28,4 @@ streamlit run .\dashboard.py
 
 atau buka aplikasi secara langsung
 
-https://bike-sharing-salma.streamlit.app/
+https://projekdicoding-salma.streamlit.app/
